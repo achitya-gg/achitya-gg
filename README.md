@@ -1,32 +1,39 @@
-# 👨‍🚀 Achitya Vishnu Kushwaha 🚀
+# 👨‍🚀 Achitya Vishnu Kushwaha 🚀  
+### *Exploring the Cosmos, One Line of Code at a Time* 🌌✨
 
-### Welcome to my corner of the digital cosmos! 🌌
-
-👨‍🎓 **Student** at *Sunbeam School, Varuna*, Varanasi, India.  
-💡 Passionate about **Rocket Engineering**, **Web Development**, and the fascinating world of **AI & ML**.  
-💻 Currently sharpening my skills in **Node.js**, **Rust**, and **Python**.  
-
----
-
-### 🛠️ Tech & Tools I Love:
-- 🧠 Artificial Intelligence & Machine Learning  
-- 🌐 Full-Stack Web Development  
-- 🦾 Low-Level Programming with Rust  
-- 🌟 Building dreams, one project at a time!  
+👨‍🎓 **Student** | *Sunbeam School, Varuna*, Varanasi, India 🇮🇳  
+🚀 Aspiring **Rocket Scientist** with a passion for **Web Development** 🌐 and **AI/ML** 🤖  
+💻 Currently crafting with **Node.js** 🟩, **Rust** 🦀, and **Python** 🐍  
 
 ---
 
-### 🌱 What I’m Currently Exploring:
-- 🚀 Rocket science: Because the sky isn’t the limit!  
-- 🤖 Building intelligent systems to solve real-world problems.  
-- ⚡ Modern web technologies for sleek, responsive designs.  
+### 🌟 **About Me**  
+- 🚀 **Rocket Science Enthusiast**: Turning dreams into liftoff!  
+- 🌐 **Tech Visionary**: Building digital experiences that wow ✨  
+- 📖 **Continuous Learner**: Exploring the universe of tech and space 🧠🌌  
 
 ---
 
-### 🤝 Connect with Me:
-- 🌍 Check out my [GitHub Projects](https://github.com/)  
-- ✨ Let’s collaborate on projects that aim for the stars!  
+### 🔧 **Skills & Technologies**  
+- 🌐 **Web Development**: Crafting sleek and responsive solutions 🎨  
+- 🤖 **AI & ML**: Making smarter, data-driven apps 🧠  
+- 🦾 **Low-Level Programming**: Rust-ing my way to high performance ⚙️  
+- 🛰️ **Rocket Engineering**: Exploring propulsion systems and orbital mechanics 🌠  
 
 ---
 
-*"The universe is vast, and so is the power of learning."* 💡  
+### 🚀 **Current Adventures**  
+- 🔭 **Rocket Research**: Aiming for the stars 🌟  
+- 🌍 **Modern Web Tech**: Building futuristic web solutions 🌐⚡  
+- 🤖 **AI Exploration**: Training models to learn and adapt 💡  
+
+---
+
+### 🌈 **Connect With Me**  
+- 🌍 [GitHub Projects](https://github.com/) 🌟  
+- 📸 [Instagram: @completelynotachitya](https://www.instagram.com/completelynotachitya/) 🎥  
+- ✨ Let’s team up and make our ideas take flight! 🛠️  
+
+---
+
+*"To infinity and beyond – because every project is a launchpad for dreams!"* 🚀💡  
