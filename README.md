@@ -29,8 +29,7 @@
 
 ---
 
-### 🌈 **Connect With Me**  
-- 🌍 [GitHub Projects](https://github.com/) 🌟  
+### 🙌 **Connect With Me**  
 - 📸 [Instagram: @completelynotachitya](https://www.instagram.com/completelynotachitya/) 🎥  
 - ✨ Let’s team up and make our ideas take flight! 🛠️  
 
