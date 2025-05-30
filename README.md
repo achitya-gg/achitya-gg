@@ -1,38 +1,70 @@
-# 👨‍🚀 Achitya Vishnu Kushwaha 🚀  
-### *Exploring the Cosmos, One Line of Code at a Time* 🌌✨
+# 👨‍🚀 Achitya Kushwaha
 
-👨‍🎓 **Student** | *Sunbeam School, Varuna*, Varanasi, India 🇮🇳  
-🚀 Aspiring **Rocket Scientist** with a passion for **Web Development** 🌐 and **AI/ML** 🤖  
-💻 Currently crafting with **Node.js** 🟩, **Rust** 🦀, and **Python** 🐍  
-
----
-
-### 🌟 **About Me**  
-- 🚀 **Rocket Science Enthusiast**: Turning dreams into liftoff!  
-- 🌐 **Tech Visionary**: Building digital experiences that wow ✨  
-- 📖 **Continuous Learner**: Exploring the universe of tech and space 🧠🌌  
+🚀 Student Researcher | Embedded Systems | Aerospace | AI for Sustainability  
+📍 Varanasi, India  
+📧 kush.achitya13@gmail.com  
 
 ---
 
-### 🔧 **Skills & Technologies**  
-- 🌐 **Web Development**: Crafting sleek and responsive solutions 🎨  
-- 🤖 **AI & ML**: Making smarter, data-driven apps 🧠  
-- 🦾 **Low-Level Programming**: Rust-ing my way to high performance ⚙️  
-- 🛰️ **Rocket Engineering**: Exploring propulsion systems and orbital mechanics 🌠  
+## 🔭 Current Focus
+
+I'm building **Eden Sphere** — a fully autonomous, AI-powered closed-loop agricultural system designed for extreme environments and off-Earth use.  
+I'm also developing flight systems, embedded hardware, and propulsion engines, all self-funded and published in open access journals and arXiv.
 
 ---
 
-### 🚀 **Current Adventures**  
-- 🔭 **Rocket Research**: Aiming for the stars 🌟  
-- 🌍 **Modern Web Tech**: Building futuristic web solutions 🌐⚡  
-- 🤖 **AI Exploration**: Training models to learn and adapt 💡  
+## 🧠 Key Research Projects
+
+| Project | Domain | Status |
+|--------|--------|--------|
+| **Eden Sphere** | AI + Sustainable AgriTech | 🛠 IEEE + Grant in Progress |
+| **Cosmic (A.D.D.S)** | Autonomous Drone Delivery | ✅ Submitted (IJERT) |
+| **Cosmo v1** | Flight Controller Hardware | ✅ Published (IJRASET) |
+| **Verdant Terra** | AI-Based Plant Stress Detection | ✅ Published (IJRASET) |
+| **Flinch** | Custom Rocket Engine (Experimental) | 🛠 Drafting for IEEE |
+| **Falcon** | Drone + SatCom System | 🛠 Fusion of Cosmo + Cosmic |
+| **Albatross** | High-performance Rocket Motor | 🛠 Concept Design |
+| **E.D.I.T.H** | Smart AI for Embedded Intelligence | 🛠 ML Pipeline |
+| **Altrider** | Wearable Smart Goggles | 🛠 In Development |
+| **Notch** | Miniature CubeSat Module | 🛠 For Falcon’s Comms Layer |
 
 ---
 
-### 🙌 **Connect With Me**  
-- 📸 [Instagram: @completelynotachitya](https://www.instagram.com/completelynotachitya/) 🎥  
-- ✨ Let’s team up and make our ideas take flight! 🛠️  
+## 📚 Publications
+
+- **Cosmo v1:** Modular Flight Controller for UAVs [IJRASET, 2025]  
+- **Verdant Terra:** Acoustic + AI Framework for Precision Agriculture [IJRASET, 2025]  
+- **Cosmic (A.D.D.S):** Autonomous Drone Delivery System [IJERT, Under Review]  
+- [More Coming Soon on arXiv and IEEE Access]
 
 ---
 
-*"To infinity and beyond – because every project is a launchpad for dreams!"* 🚀💡  
+## 💡 Skills & Stack
+
+- **Embedded Systems:** STM32H7, Raspberry Pi, KiCad, I²C/SPI/UART, PWM/DShot
+- **AI + ML:** PyTorch, OpenCV, TensorFlow Lite
+- **CAD + Simulation:** Fusion 360, Blender, MATLAB Simulink
+- **Web & Control Apps:** React, Python Flask, Node.js (for dashboards)
+- **Publishing & Tools:** LaTeX, IEEE Access format, Git, Markdown
+
+---
+
+## 🌍 What I'm Looking For
+
+🎓 Research Mentorship  
+💸 Hardware Grants / Institutional Funding  
+🤝 Collaboration with Labs, Professors, or Open Source Builders  
+📬 Let’s build the future of autonomous, sustainable tech
+
+---
+
+## 📎 Connect With Me
+
+- 🔗 [Google Scholar](#) *(Coming soon)*  
+- 🌐 [My Website](#) *(Under construction)*  
+- 📤 [arXiv Profile](#) *(Launching soon)*  
+- 🧠 [Notion Portfolio](#) *(In development)*
+
+---
+
+*“Engineering is the art of solving problems you haven’t even encountered yet — with tools you haven’t even built yet.”*
